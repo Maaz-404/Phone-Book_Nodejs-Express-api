@@ -21,19 +21,19 @@ It will install all dependencies required by this project
 
 
 
-Install mongodb for database & mongodbcompass for exploring database & management
+>Install mongodb for database & mongodbcompass for exploring database & management
 https://www.mongodb.com/try/download/community
 https://www.mongodb.com/products/compass
 
-Start the mongodb server mongod.exe or mongo.exe in start menu or search from search bar
+ * Start the mongodb server mongod.exe or mongo.exe in start menu or search from search bar
 
-Go to project folder & open cmd , type: " npm start "
+* Go to project folder & open cmd , type: " npm start "
 This will start the api-server
 
-open the browser (chrome or firefox) & go to this url: "localhost:8080/api/contacts"
+> Go to this url: "localhost:8080/api/contacts"
 
-Currently it is empty because there is nothing in database
+* Currently it is empty because there is nothing in database
 
-Open mongodb compass & click connect(leave the input field as it is), it will automatically connect to local host & select the database "Contact or resthub" Insert data into it & goto browser refresh & you will see the data
+> * Open mongodb compass & click connect(leave the input field as it is), it will automatically connect to local host & select the database "Contact or resthub" Insert data into it & goto browser refresh & you will see the data
 
 
