@@ -11,12 +11,12 @@ The `api` uri preceed all API endpoints and the following endpoints are currentl
 
 # How to Install & Use
 
-Install Nodejs-(LTS) from  this site
+  >  Install Nodejs-(LTS) from  this site
     https://nodejs.org/en/
     
-open "cmd" OR command prompt / terminal in windows/linx
+> Open "cmd" OR command prompt / terminal in windows/linx
 
-    Open project folder & type : "npm install"
+ * Open project folder & type : "npm install"
 It will install all dependencies required by this project
 
 
